@@ -1,0 +1,11 @@
+.photo {
+    background: #ddd;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    border-radius: 5px;
+    border: 1px solid #ced4da;
+    height: 180px;
+    min-height: 100%;
+    width: 100%;
+}

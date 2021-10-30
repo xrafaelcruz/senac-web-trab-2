@@ -1,0 +1,20 @@
+.column-photo {
+    min-width: 125px;
+    width: 180px;
+}
+
+.column-actions {
+    min-width: 125px;
+}
+
+.fighter-photo {
+    border-radius: 5px;
+    height: 100px;
+    object-fit: cover;
+    object-position: top;
+    width: 100%;
+}
+
+.table td {
+    vertical-align: middle;
+}

@@ -1,0 +1,10 @@
+.page-title {
+    color: #34040a;
+    font-family: 'Ceviche One', cursive;
+    font-size: 48px;
+    padding: 16px 40px;
+}
+
+.page-title > span {
+    color: #f05365;
+}
