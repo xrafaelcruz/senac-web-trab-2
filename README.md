@@ -1,14 +1,13 @@
 # senac-web-trab-2
 
-### Cadastro de lutadores.
+## Cadastro de lutadores.
 
 Os dados são armazenados no Firebase Firestore, onde é possível fazer operações de CRUD e consultar algumas informações
 como o lutador mais alto, mais baixo, mais pesado e mais leve.
 
-<br />
+![image info](./assets/cadastro_de_lutadores.png)
 
 *Foi escolhido a opção 1 do trabalho, seguindo os seguintes requisitos.*
-
 
 ### Opção 1
 Desenvolver uma Single Page Application utilizando React JS que manipule dados armazenados no
